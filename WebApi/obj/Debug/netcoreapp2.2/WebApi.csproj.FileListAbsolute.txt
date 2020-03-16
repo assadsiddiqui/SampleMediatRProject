@@ -1,0 +1,34 @@
+C:\Assad\Projects\Sample MediatR Project\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Assad\Projects\Sample MediatR Project\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Assad\Projects\Sample MediatR Project\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Assad\Projects\Sample MediatR Project\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Assad\Projects\Sample MediatR Project\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Assad\Projects\Sample MediatR Project\WebApi\bin\Debug\netcoreapp2.2\MediatorDomain.dll
+C:\Assad\Projects\Sample MediatR Project\WebApi\bin\Debug\netcoreapp2.2\MediatorDomain.pdb
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CopyComplete
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Assad\Projects\Sample MediatR Project\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
+C:\Assad\Projects\SampleMediatRProject\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Assad\Projects\SampleMediatRProject\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Assad\Projects\SampleMediatRProject\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Assad\Projects\SampleMediatRProject\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Assad\Projects\SampleMediatRProject\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Assad\Projects\SampleMediatRProject\WebApi\bin\Debug\netcoreapp2.2\MediatorDomain.dll
+C:\Assad\Projects\SampleMediatRProject\WebApi\bin\Debug\netcoreapp2.2\MediatorDomain.pdb
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CopyComplete
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Assad\Projects\SampleMediatRProject\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb

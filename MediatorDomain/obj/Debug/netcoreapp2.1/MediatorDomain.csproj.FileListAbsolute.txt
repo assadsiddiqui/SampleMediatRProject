@@ -1,9 +1,0 @@
-C:\Assad\Projects\Sample MediatR Project\MediatorDomain\bin\Debug\netcoreapp2.1\MediatorDomain.deps.json
-C:\Assad\Projects\Sample MediatR Project\MediatorDomain\bin\Debug\netcoreapp2.1\MediatorDomain.dll
-C:\Assad\Projects\Sample MediatR Project\MediatorDomain\obj\Debug\netcoreapp2.1\MediatorDomain.csproj.CoreCompileInputs.cache
-C:\Assad\Projects\Sample MediatR Project\MediatorDomain\obj\Debug\netcoreapp2.1\MediatorDomain.AssemblyInfoInputs.cache
-C:\Assad\Projects\Sample MediatR Project\MediatorDomain\obj\Debug\netcoreapp2.1\MediatorDomain.AssemblyInfo.cs
-C:\Assad\Projects\Sample MediatR Project\MediatorDomain\bin\Debug\netcoreapp2.1\MediatorDomain.pdb
-C:\Assad\Projects\Sample MediatR Project\MediatorDomain\obj\Debug\netcoreapp2.1\MediatorDomain.dll
-C:\Assad\Projects\Sample MediatR Project\MediatorDomain\obj\Debug\netcoreapp2.1\MediatorDomain.pdb
-C:\Assad\Projects\Sample MediatR Project\MediatorDomain\obj\Debug\netcoreapp2.1\MediatorDomain.csprojAssemblyReference.cache

@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MediatorDomain\MediatorDomain.csproj" />
-    <ProjectReference Include="..\WebApi\WebApi.csproj" />
+    <ProjectReference Include="..\src\MediatorDomain\MediatorDomain.csproj" />
+    <ProjectReference Include="..\src\WebApi\WebApi.csproj" />
   </ItemGroup>
 
 </Project>

@@ -2,10 +2,10 @@
 version: '3.4'
 
 services:
-  webapi:
-    image: webapi
+  mediatrapp:
+    image: mediatrapp
     build:
       context: .
       dockerfile: src/WebApi/Dockerfile
     ports:
-      - 80
+      - 8000:80

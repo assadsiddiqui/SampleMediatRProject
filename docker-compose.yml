@@ -6,6 +6,6 @@ services:
     image: mediatrapp
     build:
       context: .
-      dockerfile: src/WebApi/Dockerfile
+      dockerfile: Dockerfile-webapi
     ports:
       - 8000:80

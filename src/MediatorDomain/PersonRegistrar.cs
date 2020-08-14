@@ -15,7 +15,7 @@ namespace MediatorDomain
             RegisterInterfaces(builder);
         }
 
-        private void RegisterInterfaces(ContainerBuilder builder)
+        private static void RegisterInterfaces(ContainerBuilder builder)
         {
             builder.RegisterType<PersonRepository>().As<IPersonRepository>()
                 .InstancePerDependency();

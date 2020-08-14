@@ -9,17 +9,19 @@ namespace MediatorDomain
 {
     public class GreetingsPipeline : IPipelineBehavior<GreetingsRequest, GreetingsResponse>
     {
-        private readonly IEnumerable<IValidator<GreetingsRequest>> _validators;
+        private readonly IEnumerable<IValidator<GreetingsRequest>> validators;
 
         public GreetingsPipeline(IEnumerable<IValidator<GreetingsRequest>> validators)
         {
-            _validators = validators;
+            this.validators = validators;
         }
 
         public async Task<GreetingsResponse> Handle(GreetingsRequest request, CancellationToken cancellationToken, RequestHandlerDelegate<GreetingsResponse> next)
         {
+            // ReSharper disable once UnusedVariable
             var context = new ValidationContext(request);
-            var failures = _validators
+
+            var failures = validators
                 .Select(v => v.Validate(request))
                 .SelectMany(result => result.Errors)
                 .Where(f => f != null)
